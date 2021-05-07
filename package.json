@@ -1,7 +1,7 @@
 {
-  "name": "WhatsAsenaDuplicated",
+  "name": "WhatsBot",
   "version": "0.15.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.Modded By Saneejified",
   "main": "./WhatsAsenaDuplicated/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
