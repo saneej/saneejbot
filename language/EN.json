@@ -489,7 +489,7 @@
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
          },
         "instagram": {
-            "NEED_WORD": "*Please enter username of any instagram account.*",
+            "NEED_WORD": "*Please enter username of any instagram account. (.profinsta @saneejified)*",
             "USAGE": ".profinsta <userName>",
             "DESC": "Fetches user informations from instagram",
             "LOADING": "Fetching user data...\n please wait.",
