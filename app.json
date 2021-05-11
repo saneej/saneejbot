@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsenaDuplicated",
+    "name": "WhatsBot",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "logo": "https://repository-images.githubusercontent.com/171072967/f0240000-b107-11ea-8c2e-02755c9b1505",
     "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/saneej/saneejbot/",
+    "website":   "https://tinyurl.com/yg7nnc7k",
+    "success_url": "https://tinyurl.com/yg7nnc7k",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
