@@ -1,4 +1,8 @@
 ## Thanks for Everything 
+<p align="center">
+  <a href="https://tinyurl.com/yg7nnc7k">
+    <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a">
+
 ### We will always remember you..
 
 - [Yusuf Usta](https://github.com/yusufusta)
